@@ -2,4 +2,5 @@
   $ npm install
 
 - Запуск приложения. Открыть можно в браузере по localhost:3000
+
   $ npm run dev
